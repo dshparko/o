@@ -1,0 +1,4 @@
+﻿  lab4.cpp
+C:\Users\Lenovo\OneDrive - bsuir.by\Рабочий стол\ОСиСП\lab4\lab4.cpp(130,47): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Lenovo\OneDrive - bsuir.by\Рабочий стол\ОСиСП\lab4\lab4.cpp(132,48): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  lab4.vcxproj -> C:\Users\Lenovo\OneDrive - bsuir.by\Рабочий стол\ОСиСП\lab4\x64\Debug\lab4.exe
